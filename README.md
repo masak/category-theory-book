@@ -12,9 +12,10 @@
     * Quaternions, etc
         * Hurwitz quaternions
     * p-adics
-        * What's the square root of -1?
+        * What's the [square root of -1](http://math.stackexchange.com/questions/38517/in-relatively-simple-words-what-is-an-inverse-limit) in the 5-adics?
     * Matrices
     * Polynomials
+    * Linear equations
 * Arithmetic
     * Peano arithmetic
     * Divisors, primes and coprimes
