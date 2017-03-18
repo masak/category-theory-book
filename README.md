@@ -46,6 +46,7 @@
     * Semidirect product
     * The first isomorphism theorem
 * Geometry
+    * Conic sections
     * Symmetries on a sphere
     * The platonic solids
     * The 4D versions of these
@@ -62,3 +63,4 @@
 * Logic and foundations
     * Gödel and undecidability
     * Intuitionistic logic
+    * Linear logic
