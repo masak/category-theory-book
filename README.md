@@ -20,7 +20,7 @@
     * Peano arithmetic
     * Divisors, primes and coprimes
     * Fundamental theorem of arithmetic
-    * Chinese remainder theorem (and Nicomachus)
+    * Chinese remainder theorem (and [Nicomachus](http://www.atariarchives.org/basicgames/showpage.php?page=117))
 * Set theory
     * Naive set theory
     * Foundational issues and paradoxes
@@ -57,6 +57,7 @@
     * Tiling octagons
 * Field theory (?)
 * Topology
+    * [Jordan's curve theorem](https://www.math.auckland.ac.nz/class750/section5.pdf)
     * Classification of closed 2-dimensional manifolds
     * Fundamental groups
     * Homology
