@@ -4,6 +4,7 @@
 
 * Numbers
     * Integers
+        * Is multiplication repeated addition
     * Rational numbers
     * Real numbers
     * Complex numbers
@@ -44,6 +45,9 @@
     * Monomorphisms and epimorphisms
     * Direct product
     * Semidirect product
+        * Dihedral groups
+        * Translations and rotations
+        * Explaining the structure of the Rubik's cube group
     * The first isomorphism theorem
 * Geometry
     * Conic sections
@@ -52,9 +56,11 @@
     * The 4D versions of these
     * Archimedean solids
     * Johnson solids
+    * [Goldberg polyhedra](https://en.wikipedia.org/wiki/Goldberg_polyhedron)
     * Tilings of the plane
     * Spherical, planar, hyperbolic geometry
-    * Tiling octagons
+    * [Octagonal tiling](https://en.wikipedia.org/wiki/Octagonal_tiling)
+    * Triangle groups, Coxeter groups and Coxeter-Dynkin digrams
 * Field theory (?)
 * Topology
     * [Jordan's curve theorem](https://www.math.auckland.ac.nz/class750/section5.pdf)
