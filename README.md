@@ -49,6 +49,7 @@
         * Translations and rotations
         * Explaining the structure of the Rubik's cube group
     * The first isomorphism theorem
+    * Galois and solvability
 * Geometry
     * Conic sections
     * Symmetries on a sphere
@@ -71,3 +72,9 @@
     * Gödel and undecidability
     * Intuitionistic logic
     * Linear logic
+* Category theory, finally
+    * Products and coproducts
+    * Duality
+    * Limits
+    * Universal properties
+    * Adjunctions
