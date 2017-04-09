@@ -66,6 +66,8 @@
 * Topology
     * [Jordan's curve theorem](https://www.math.auckland.ac.nz/class750/section5.pdf)
     * Classification of closed 2-dimensional manifolds
+        * An algorithm to create the manifolds by gluing together polygons
+        * [ZIP proof](http://www.maths.ed.ac.uk/~aar/papers/francisweeks.pdf)
     * Fundamental groups
     * Homology
 * Logic and foundations
