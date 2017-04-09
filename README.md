@@ -75,8 +75,15 @@
     * Intuitionistic logic
     * Linear logic
 * Category theory, finally
+    * Composition
+    * Rebuilding math using categories
+    * Functors
     * Products and coproducts
     * Duality
     * Limits
     * Universal properties
     * Adjunctions
+    * Natural transformations
+    * The Yoneda Lemma
+    * Enriched categories, 2-categories, and *n*-categories
+    * Foundations and category theory
