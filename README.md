@@ -73,6 +73,7 @@
 * Logic and foundations
     * Gödel and undecidability
     * Intuitionistic logic
+        * Martin-Löf type theory and Agda
     * Linear logic
 * Category theory, finally
     * Composition
