@@ -30,6 +30,9 @@
 * Graph theory
     * [Tarjan's algorithm](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm) and "dividing out the cycles"
     * DAGs, Lamport timestamps and Git
+* Linear algebra
+    * Matrices are really linear transformations (not just two-dimensional arrays)
+    * Quantum superpositions are really only linear combinations
 * Abelian groups
     * Generators and representations
     * Cyclic groups
