@@ -20,3 +20,5 @@ The platonic solids generally go by these names.
 But in this book we're going to settle on slightly shorter names, breaking with Greek tradition.
 
 [IMAGE: the five platonic solids, with names 4-hedron ... 20-hedron]
+
+All five platonic solids have a *dual*. (XXX excellent explanations of duals here.) The 6-hedron and the 8-hedron are duals. The 12-hedron and the 20-hedron are duals. The 4-hedron is its own dual. 
