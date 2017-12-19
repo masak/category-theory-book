@@ -22,6 +22,7 @@
     * Divisors, primes and coprimes
     * Fundamental theorem of arithmetic
     * Chinese remainder theorem (and [Nicomachus](http://www.atariarchives.org/basicgames/showpage.php?page=117))
+        * [Things are easier under modular arithmetic](https://math.stackexchange.com/questions/195634/how-do-you-calculate-the-modulo-of-a-high-raised-number/195641#195641)
 * Set theory
     * Naive set theory
     * Foundational issues and paradoxes
